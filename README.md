@@ -2,7 +2,7 @@
 
 <h3>UI Overview</h3>
 The user interface (UI) of this application provides a straightforward and user-friendly design.
-![Screenshot (293)](https://github.com/chinmay3/Chat-with-PDFs/assets/74144636/717d2b75-6c1c-4f68-a3cb-f1284844ea3c)
+![Image 1](1.jpg)
 
 <h3>Uploading and Processing PDFs</h3>
 To begin, you can upload one or more PDF files that you want to process.
