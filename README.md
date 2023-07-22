@@ -2,7 +2,7 @@
 
 <h3>UI Overview</h3>
 The user interface (UI) of this application provides a straightforward and user-friendly design.
-![Image 1](1.jpg)
+![Image 1](1.png)
 
 <h3>Uploading and Processing PDFs</h3>
 To begin, you can upload one or more PDF files that you want to process.
